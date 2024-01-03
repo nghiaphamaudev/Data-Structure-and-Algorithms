@@ -36,7 +36,7 @@ const findNumbers = nums => {
   return countNumberDigit;
 };
 
-console.log(findNumbers([1, 2, 76, 123, 0, -22]));
+
 
 //Solution 2: Count number of number
 
@@ -62,4 +62,3 @@ const findNumber = nums => {
   return countOfDigit;
 };
 
-console.log(findNumber([12, 0, 222, 333, 4444]));
